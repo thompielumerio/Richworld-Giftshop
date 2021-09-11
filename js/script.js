@@ -268,6 +268,6 @@ function search_click(){
             search_int: search_input 
         });
     });
-
+    
 }
 
